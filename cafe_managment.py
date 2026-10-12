@@ -49,7 +49,7 @@ class Restaurant_Management_System:
 
 
 customer1 = Restaurant_Management_System(
-    "Pranay", "9876543210", 5, ["Burger"], 120, "Order Placed"
+    "Satvik", "98779812823", 5, ["Burger"], 120, "Order Placed"
 )
 
 customer1.print_details()
